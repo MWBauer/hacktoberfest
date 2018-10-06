@@ -1,8 +1,8 @@
 ### Name: Marc Bauer
-   -Place: Tennessee, USA
+   -Place: Tennessee, USA<br/>
    -Bio: I haven't gone to school for computers of any sort, but I've been learning a lot from the coding community
          different sites online, and books. New tech and new languages are always interesting!
-   -GitHub: https://github.com/MWBauer
+   -GitHub: (https://github.com/MWBauer)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
